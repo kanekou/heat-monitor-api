@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Deploy Server
+- https://heat-monitor.herokuapp.com/api/users
